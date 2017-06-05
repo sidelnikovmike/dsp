@@ -1,6 +1,5 @@
-package com.propellerads.rtb.dsp.services;
+package pro.proxeter.dsp.services;
 
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 /**

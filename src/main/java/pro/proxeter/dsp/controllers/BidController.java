@@ -1,11 +1,11 @@
-package com.propellerads.rtb.dsp.controllers;
+package pro.proxeter.dsp.controllers;
 
-import com.propellerads.rtb.dsp.models.Bid;
-import com.propellerads.rtb.dsp.services.DSPService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import pro.proxeter.dsp.models.Bid;
+import pro.proxeter.dsp.services.DSPService;
 
 /**
  * Created by proxeter on 04.06.17.

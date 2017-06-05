@@ -1,13 +1,15 @@
-package com.propellerads.rtb.dsp.models;
+package pro.proxeter.dsp.models;
 
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.commons.lang3.RandomUtils;
 
+import javax.xml.bind.annotation.XmlRootElement;
 import java.math.BigDecimal;
 
 /**
  * Created by proxeter on 04.06.17.
  */
+@XmlRootElement(name = "bid")
 public class Bid {
 
     private String url;

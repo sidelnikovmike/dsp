@@ -1,4 +1,4 @@
-package com.propellerads.rtb.dsp;
+package pro.proxeter.dsp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
